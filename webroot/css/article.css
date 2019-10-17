@@ -1,0 +1,15 @@
+.add{
+	text-align: right;
+	margin: 20px 0px;
+}
+.add a{
+	padding:10px;
+	border: 1px solid #eee;
+	background-color:#3399FF;
+	color:#fff;
+	border-radius: 5px;
+}
+.add a:hover{
+	background: #fff;
+	color:#3399FF; 
+}

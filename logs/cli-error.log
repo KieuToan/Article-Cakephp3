@@ -1,0 +1,28 @@
+2019-01-24 11:10:07 Error: [RuntimeException] Unknown command `cake all`. Run `cake --help` to get the list of valid commands. in /Applications/MAMP/htdocs/cakephp3/vendor/cakephp/cakephp/src/Console/CommandRunner.php on line 350
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp3/vendor/cakephp/cakephp/src/Console/CommandRunner.php(161): Cake\Console\CommandRunner->resolveName(Object(Cake\Console\CommandCollection), Object(Cake\Console\ConsoleIo), 'all')
+#1 /Applications/MAMP/htdocs/cakephp3/bin/cake.php(12): Cake\Console\CommandRunner->run(Array)
+#2 {main}
+
+
+2019-01-24 11:15:08 Error: [RuntimeException] Unknown command `cake all`. Run `cake --help` to get the list of valid commands. in /Applications/MAMP/htdocs/cakephp3/vendor/cakephp/cakephp/src/Console/CommandRunner.php on line 350
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp3/vendor/cakephp/cakephp/src/Console/CommandRunner.php(161): Cake\Console\CommandRunner->resolveName(Object(Cake\Console\CommandCollection), Object(Cake\Console\ConsoleIo), 'all')
+#1 /Applications/MAMP/htdocs/cakephp3/bin/cake.php(12): Cake\Console\CommandRunner->run(Array)
+#2 {main}
+
+
+2019-01-24 11:16:01 Error: [RuntimeException] Unknown command `cake all`. Run `cake --help` to get the list of valid commands. in /Applications/MAMP/htdocs/cakephp3/vendor/cakephp/cakephp/src/Console/CommandRunner.php on line 350
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp3/vendor/cakephp/cakephp/src/Console/CommandRunner.php(161): Cake\Console\CommandRunner->resolveName(Object(Cake\Console\CommandCollection), Object(Cake\Console\ConsoleIo), 'all')
+#1 /Applications/MAMP/htdocs/cakephp3/bin/cake.php(12): Cake\Console\CommandRunner->run(Array)
+#2 {main}
+
+
+2019-02-01 10:11:04 Error: [RuntimeException] Unknown command `cake all`. Run `cake --help` to get the list of valid commands. in /Applications/MAMP/htdocs/cakephp3/vendor/cakephp/cakephp/src/Console/CommandRunner.php on line 350
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp3/vendor/cakephp/cakephp/src/Console/CommandRunner.php(161): Cake\Console\CommandRunner->resolveName(Object(Cake\Console\CommandCollection), Object(Cake\Console\ConsoleIo), 'all')
+#1 /Applications/MAMP/htdocs/cakephp3/bin/cake.php(12): Cake\Console\CommandRunner->run(Array)
+#2 {main}
+
+
